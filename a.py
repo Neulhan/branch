@@ -5,3 +5,6 @@ def ab():
 def e1():
     print("e1")
 
+def e2():
+    print("e2")
+
